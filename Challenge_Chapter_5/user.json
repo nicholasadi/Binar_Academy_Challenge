@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "peanutButter",
+    "password": "1 cup"
+  },
+  {
+    "id": 2,
+    "name": "chocolateChip",
+    "password": "2 cups"
+  },
+  {
+    "id": 3,
+    "name": "chocolateCheese",
+    "password": "3 cups"
+  },
+  {
+    "id": 4,
+    "name": "chocolateButter",
+    "password": "4 cups"
+  },
+  {
+    "id": 5,
+    "name": "admin",
+    "password": "ganteng"
+  }
+]
