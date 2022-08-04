@@ -1,0 +1,29 @@
+{
+  "name": "challenge-chapter-5",
+  "version": "1.0.0",
+  "description": "Challenge Chapter 5 :\r 1. Pindahkan code challenge pada chapter 3 dan 4 yang semula merupakan HTML statis ke dalam server menggunakan Express, halaman 1 dengan yang lainnya dibedakan dengan routing\r 2. Membuat data user static untuk login di bagian backend\r 3. Menggunakan Postman untuk mengecek API\r 4. Serving data user static ke bentuk JSON",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binar-FSW-Wave-18/Challenge-Chapter-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binar-FSW-Wave-18/Challenge-Chapter-5/issues"
+  },
+  "homepage": "https://github.com/Binar-FSW-Wave-18/Challenge-Chapter-5#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
