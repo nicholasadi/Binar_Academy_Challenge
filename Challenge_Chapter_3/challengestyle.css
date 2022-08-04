@@ -1,0 +1,95 @@
+.background{
+  background-repeat: no-repeat;
+  background-blend-mode: screen;
+  background-size:cover;
+  background-position: center;
+  height: 130vh;
+  width: auto;
+  background-attachment: scroll;
+}
+
+#one{
+  background-image: url(assets/assets/main-bg.jpg);
+}
+#two{
+  background-image: url(assets/assets/the-games-bg.jpg);
+
+}
+#three{
+  background-image: url(assets/assets/features.jpg);
+}
+#four{
+  background-image: url(assets/assets/requirements.png);
+}
+#five{
+  background-image: url(assets/assets/top-score-bg.png);
+}
+
+li{
+  padding: 5pt;
+}
+
+.transparan{
+  opacity: 0.85;
+  background-color: black;
+  font-weight: bolder;
+  color: white;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin-left: 10pt;
+}
+
+.fonth1 {
+  text-align: center;
+  color: white;
+  margin: top 100px;
+}
+
+.botom{
+  padding-top: 50vh;
+  text-align: center;
+}
+
+.white{
+  color: white;
+}
+.yellow {
+  color: salmon;
+}
+
+.pdglft{
+  padding-left: 45vw !important;
+  padding-right: 0vw !important;
+  padding-top: 15vh  !important;
+  padding-bottom: 0vh !important;
+}
+
+.system{
+  text-align: left;
+  font-size: 30px;
+  padding-left: 15vw;
+}
+.mrgbtm{
+  margin-bottom:-0.5rem !important ;
+}
+.pdgtt{
+  padding: 5pt;
+}
+.blue{
+  color: blueviolet;
+}
+.arrow{
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline block;
+  padding: 3px;
+}
+.dwn{
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
