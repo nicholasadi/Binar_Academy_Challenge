@@ -27,9 +27,9 @@ Di challenge ini, saya belajar mengenai :
 ## Challenge Chapter 6
 Di challenge ini, saya belajar mengenai :
 - Database
-` SQL
-` ORM
-` Implementation in Express
+- SQL
+- ORM
+- Implementation in Express
 
 ## Challenge Chapter 7
 Di challenge ini, saya belajar mengenai :
