@@ -1,4 +1,5 @@
 # Binar Academy Challenge
+Ini merupakan beberapa Challenge yang saya lakukan pada saat mengikuti Bootcamp Binar Academy
 
 ## Challenge Chapter 3
 Di challenge ini, saya belajar mengenai :
